@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{FC588EBC-8499-46DC-2C88-3411EA4227F4}</ProjectGuid>
+    <ProjectGuid>{A6560D89-4B7C-5D29-0D55-EC1C7C8A2684}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -65,21 +65,24 @@
     <Compile Include="Assets\_Completed-Assets\Scripts\CompletePlayerController.cs" />
     <Compile Include="Assets\_Completed-Assets\Scripts\CompleteRotator.cs" />
     <Compile Include="Assets\Scripts\Camera_controller.cs" />
+    <Compile Include="Assets\Scripts\Parallaxing.cs" />
+    <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\Player_controller.cs" />
+    <Compile Include="Assets\Scripts\PlayerDisplay.cs" />
     <Compile Include="Assets\Scripts\Rotater.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\TutorialInfo.cs" />
     <None Include="Assets\TutorialInfo\Fonts\LICENSE.txt" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/Wendy/Desktop/game_development/UFO Game/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/Wendy/Desktop/game_development/UFOgame/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/Wendy/Desktop/game_development/UFO Game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/Wendy/Desktop/game_development/UFOgame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/Wendy/Desktop/game_development/UFO Game/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/Wendy/Desktop/game_development/UFOgame/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/Wendy/Desktop/game_development/UFO Game/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/Wendy/Desktop/game_development/UFOgame/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
